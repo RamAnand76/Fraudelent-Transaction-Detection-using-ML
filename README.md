@@ -19,7 +19,7 @@ The dataset used for this project is `Fraud_data.csv`, which contains transactio
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/RamAnand76/fraud-detection.git
+   git clone https://github.com/RamAnand76/Fraudelent-Transaction-Detection-using-ML.git
    ```
 
 2. Install the required libraries:
